@@ -2,6 +2,8 @@
 
 Futuristic "AI OS dashboard" style portfolio built with Next.js 14 + TypeScript, Tailwind, Framer Motion, Zustand, React Hook Form + Zod.
 
+[![Railway Deploy](https://railway.app/button.svg)](https://railway.app/new/template?repo=https://github.com/adarshdessai4-spec/my_ai_arch_portfolio)
+
 ## Getting Started
 
 ```bash
@@ -59,3 +61,5 @@ Role selection persists in localStorage via Zustand.
 5) Optional env: `NEXT_TELEMETRY_DISABLED=1`
 
 Railway will auto-detect Next.js and expose the deployment URL.
+
+Optional: add a Railway badge by replacing the link above with your project URL once deployed.
